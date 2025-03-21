@@ -7,9 +7,9 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
-     
-    </>
+    <div className='h-[100vh] w-[100vw] flex flex-col items-center justify-center bg-gray-500'>
+
+    </div>
   )
 }
 
